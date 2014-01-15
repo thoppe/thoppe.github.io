@@ -1,0 +1,10 @@
+#attention {
+  color: #ffffff;
+  font-family:"brandon-grotesque";
+  text-align: center;
+  line-height: 1.0;
+  text-shadow: 2px 2px 0px #444444, 4px 4px 0px #e66e51;
+  font-size: 80px;
+  width: 980px;
+  height: 79px;
+}
