@@ -3,13 +3,46 @@
   src: url(fonts/PassionOne-Bold.ttf) format("truetype");
 }
 
-#attention {
+body {
+    font-size: 100%;
+    font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: auto;
+    height: auto;
+    padding: 0 0 0 0;
+    margin: 0;
+    color: #7d7d7b;
+    background-color: #f0f0f0;
+}
+
+h1  { 
+    font-family: "Dosis";
+    line-height: 1.2;
+    font-weight: normal;
+    font-size: 80px;
+    width:100%
+}
+h2 {
+    font-family: "Dosis";
+    line-height: 1.2;
+    font-weight: normal;
+    font-size: 60px;
+}
+
+
+.flush_left {
+    margin-top:0px;
+    border:0px;
+    padding:0px;
+    text-align: left;
+}
+
+.attention {
+    background:black;
   color: #ffffff;
   font-family:"PassionOne";
-  text-align: center;
   line-height: 1.0;
   text-shadow: 2px 2px 0px #444444, 4px 4px 0px #e66e51;
-  font-size: 80px;
-  width: 980px;
-  height: 79px;
+  font-size: 30px;
+  width: 50%;
+
 }

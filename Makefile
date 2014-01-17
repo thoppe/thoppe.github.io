@@ -6,3 +6,5 @@ push:
 	git push
 pull:
 	git pull
+view:
+	chromium-browser index.html
