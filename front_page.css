@@ -27,6 +27,13 @@ body {
     line-height: 1.4;
 }
 
+figcaption a {
+    text-decoration:none;
+}
+figcaption{
+    display:block;
+}
+
 #logo {
     font-weight: bold;
     font-size: 80px;
@@ -40,31 +47,20 @@ body {
 
 figure { 
     display:inline-block;
-    margin:10px;
+    vertical-align:top;
+    margin:0;
+    margin-left:0;
+    margin-right:15px;
 }
+
+
+
 .avatar {
     width:10em;
 }
 
-
-
-
-
-
 h2 {
-    font-family: "Dosis";
     font-weight: normal;
     font-size: 60px;
 }
 
-
-.attention {
-    background:black;
-  color: #ffffff;
-  font-family:"PassionOne";
-  line-height: 1.0;
-  text-shadow: 2px 2px 0px #444444, 4px 4px 0px #e66e51;
-  font-size: 30px;
-  width: 50%;
-
-}
