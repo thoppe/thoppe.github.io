@@ -1,8 +1,8 @@
 all:
 	@echo pass
 push:
-	git status
 	git add -A
+	git status
 	-git commit
 	git push
 pull:
