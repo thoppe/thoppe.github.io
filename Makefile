@@ -1,6 +1,7 @@
 all:
 	@echo pass
 push:
+	git status
 	git add -A
 	-git commit
 	git push
