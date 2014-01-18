@@ -1,5 +1,8 @@
 all:
 	@echo pass
+edit:
+	emacs index.html
+
 push:
 	git add -A
 	git status
