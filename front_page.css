@@ -55,7 +55,8 @@ figure {
 }
 
 .avatar {
-    max-width:150px;
+    min-width:5em;
+    max-width:10em;
     border-radius: 6px;
 }
 

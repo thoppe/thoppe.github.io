@@ -3,6 +3,9 @@ all:
 edit:
 	emacs index.html
 
+commit:
+	-@make push
+
 push:
 	git add -A
 	git status
