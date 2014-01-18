@@ -14,11 +14,11 @@ body {
 }
 
 #content {
-    margin-left: 10%
+    display:inline-block;
+    margin-left:5%;
 }
 
 #header {
-    display:inline-block;
     width: 100%;
     height:auto;
     background: #202020;
