@@ -9,13 +9,12 @@ body {
     padding: 0 0 0 0;
     margin: 0;
     border: 0;
-    margin-left: 0em;
-    color: #7d7d7b;
-    background-color: #FFFFFF;
+    color: #7e7e7b;
+    background-color: #ffFFff;
 }
 
-#content, #logo {
-    margin-left:5%;
+#content {
+    margin-left: 10%
 }
 
 #header {
@@ -27,14 +26,8 @@ body {
     line-height: 1.4;
 }
 
-figcaption a {
-    text-decoration:none;
-}
-figcaption{
-    display:block;
-}
-
 #logo {
+    margin-left:5%;
     font-weight: bold;
     font-size: 80px;
     text-transform:lowercase;
@@ -45,22 +38,30 @@ figcaption{
     color: #FDDD07;
 }
 
+figcaption a {
+    text-decoration:none;
+}
+figcaption{
+    display:block;
+}
+
+
 figure { 
     display:inline-block;
     vertical-align:top;
-    margin:0;
-    margin-left:0;
-    margin-right:15px;
+    margin:0 15px 0 0;
 }
-
-
 
 .avatar {
-    width:10em;
+    max-width:150px;
+    border-radius: 6px;
 }
 
-h2 {
+.section h1{
     font-weight: normal;
-    font-size: 60px;
+    font-size: 40px;
+    margin: 10px 0 10px 0
 }
+
+
 
