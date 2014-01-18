@@ -3,6 +3,10 @@
   src: url(fonts/PassionOne-Bold.ttf) format("truetype");
 }
 
+a {
+    text-decoration:none;
+}
+
 body {
     font-size: 100%;
     font-family: "Dosis";
@@ -38,9 +42,7 @@ body {
     color: #FDDD07;
 }
 
-figcaption a {
-    text-decoration:none;
-}
+
 figcaption{
     display:block;
 }
@@ -62,6 +64,18 @@ figure {
     font-size: 40px;
     margin: 10px 0 10px 0
 }
+
+.section .talk {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 20px 0 10px 0;
+    color: #202020;
+}
+
+.talk a {
+    color: #202020;
+}
+
 
 
 
