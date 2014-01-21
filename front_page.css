@@ -2,7 +2,7 @@ html, body{
   min-height: 100%;
 }
 
-
+/* Not needed, was just playing around 
 #circle {
     position:absolute;
 
@@ -19,6 +19,7 @@ html, body{
     background-color: blue;
     z-index: -1;
 }
+*/
 
 #header {
     position:relative;
@@ -42,10 +43,6 @@ html, body{
 }
 
 
-a {
-    text-decoration:none;
-}
-
 body {
     font-size: 100%;
     font-family: "Dosis";
@@ -62,10 +59,6 @@ body {
     margin-left:5%;
 }
 
-
-
-
-
 figcaption{
     display:block;
 }
@@ -76,6 +69,28 @@ figure {
     vertical-align:top;
     margin:0 15px 0 0;
 }
+
+a {
+    text-decoration:none;
+}
+
+.section a {
+    color: #263d6c;
+}
+
+.section a:hover { 
+    color: #404040;
+}
+
+.talk a, a .info{
+    transition:color .3s ease-out;
+    color: #404040;
+}
+
+.talk a:hover, a:hover .info { 
+    color: #0F285C;
+}
+
 
 .avatar {
     max-width:10em;
@@ -91,14 +106,16 @@ figure {
 .section .talk {
     font-weight: bold;
     font-size: 1.5em;
-    margin: 20px 0 10px 0;
+    margin: 10px 0 5px 0;
     color: #202020;
 }
 
-.talk a {
-    color: #404040;
+.talk .info {
+    font-weight: normal;
+    font-size: .8em;
+    margin: 0px 0 0px 0;
+    color: #202020;
 }
-
 
 
 /* Mobile settings */
