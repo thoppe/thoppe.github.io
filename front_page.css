@@ -1,7 +1,46 @@
-@font-face {
-  font-family: "PassionOne";
-  src: url(fonts/PassionOne-Bold.ttf) format("truetype");
+html, body{
+  min-height: 100%;
 }
+
+
+#circle {
+    position:absolute;
+
+    margin-top: -15px;
+    margin-left: -15px;
+
+    width:30px;
+    height:30px;
+
+    left:50%;
+    top:100%;
+ 
+    border-radius: 50%;    
+    background-color: blue;
+    z-index: -1;
+}
+
+#header {
+    position:relative;
+    width: 100%;
+    height:auto;
+    background: #202020;
+    z-index: 10;
+    line-height: 1.4;
+}
+
+#logo {
+    margin-left:5%;
+    font-weight: bold;
+    font-size: 3.5em;
+    text-transform:lowercase;
+    color: #FDFDFD;
+}
+
+#logo_dot{ 
+    color: #FDDD07;
+}
+
 
 a {
     text-decoration:none;
@@ -15,6 +54,7 @@ body {
     border: 0;
     color: #7e7e7b;
     background-color: #ffFFff;
+    position:relative;
 }
 
 #content {
@@ -22,25 +62,8 @@ body {
     margin-left:5%;
 }
 
-#header {
-    width: 100%;
-    height:auto;
-    background: #202020;
-    z-index: 1000;
-    line-height: 1.4;
-}
 
-#logo {
-    margin-left:5%;
-    font-weight: bold;
-    font-size: 3.5em;
-    text-transform:lowercase;
-    color: #FDFDFD;
-}
 
-#logo_dot{
-    color: #FDDD07;
-}
 
 
 figcaption{
