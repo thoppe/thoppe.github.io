@@ -1,5 +1,5 @@
 all:
-	@echo pass
+	haml test.haml
 edit:
 	emacs index.html
 

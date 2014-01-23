@@ -1,0 +1,31 @@
+!!!
+
+-name = "Travis Hoppe"
+-url_home = "https://github.com/thoppe/thoppe.github.io"
+
+
+%head
+/    = File.read "header.html"
+
+.header
+    %a(href="#{url_home}")
+        .logo
+            #{name}
+            %span(id="logo_dot") .
+
+.content
+    .section
+        %h1 Personalities
+
+        %a(href="http://stackoverflow.com/users/249341/hooked")
+            %figure
+                %img.avatar(src="images/avatar1.jpg")
+                %figcaption Stack Overflow
+
+                
+
+
+
+/= File.read "index.html"
+
+
