@@ -1,0 +1,67 @@
+---
+name : Travis Hoppe
+logo_link: https://github.com/thoppe
+
+avatars:
+-
+ image: images/avatar1.jpg
+ link : http://stackoverflow.com/users/249341/hooked
+ sublinks:
+ -
+  name: Stack Overflow
+  link: http://stackoverflow.com/users/249341/hooked
+
+-
+ image: images/avatar4.jpg
+ link : https://github.com/thoppe
+ sublinks:
+ -
+  name: Github
+  link: https://github.com/thoppe
+ -
+  name: Bitbucket
+  link: https://bitbucket.org/hooked/
+
+-
+ image: images/avatar5.jpg
+ link : http://toughmudder.com
+ sublinks:
+ -
+  name: Tough Mudder
+  link: http://toughmudder.com
+ -
+  name: Capoeirista
+  link: http://www.abadadc.org/ingles/index.htm
+
+-
+ image: images/avatar3.jpg
+ link : https://www.researchgate.net/profile/Travis_Hoppe/
+ sublinks:
+ -
+  name: ResearchGate
+  link: https://www.researchgate.net/profile/Travis_Hoppe/
+ -
+  name: LinkedIn
+  link: http://www.linkedin.com/profile/view?id=206093613
+
+sections:
+-
+ title  : Talks
+ entries:
+ -
+  name: "DC Data Wranglers"
+  info: "pyparsing: helping data get its sexy back"
+  link: http://thoppe.github.io/DCDW_pres_feb_2014/
+ -
+  name: "Irrelevant Topics In Physics: 8"
+  info: "Quines, Price of Anarchy, & Zeta Function Regularization"
+  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/
+-
+ title  : Research
+ entries:
+ -
+  name: "Virial Coefficients of Charged Protein Solutions"
+  info: ""
+  link: http://thoppe.github.io/research_pres_macrocharge/
+
+---

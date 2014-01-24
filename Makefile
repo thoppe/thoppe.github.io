@@ -1,7 +1,8 @@
 all:
-	haml test.haml
+	./mustache data.yaml template.mustache > index.html
+
 edit:
-	emacs index.html
+	emacs data.yaml
 
 commit:
 	-@make push

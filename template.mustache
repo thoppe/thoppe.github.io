@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+  <head>
+    <link rel="stylesheet" type="text/css" 
+    href="http://fonts.googleapis.com/css?family=Dosis:regular,italic,bold,bolditalic"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" 
+    content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="front_page.css" media="screen" 
+	  rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+
+    <div id="header">
+      <a href="{{logo_link}}">
+        <div id="logo">{{name}}<span id="logo_dot">.</span></div>
+      </a>
+    </div>
+
+    <div id="content">
+
+      <div class="section">
+        <h1>Personalities</h1>
+        
+        {{#avatars}}
+          <a href="{{link}}">
+            <figure>
+            <img src="{{image}}" class="avatar"/>
+            <figcaption>
+            {{#sublinks}}
+              <a href="{{link}}">{{name}}</a></br>
+            {{/sublinks}}
+            </figcaption>
+            </figure>
+          </a>
+        {{/avatars}}
+      </div>
+
+      {{#sections}}
+        <div class="section">
+          <h1>{{title}}</h1>
+          {{#entries}}
+            <div class="talk">
+              <a href="{{link}}">
+                {{name}}
+                <div class="info">{{info}}</div>
+              </a>
+            </div>
+          {{/entries}}
+        </div>
+      {{/sections}}
+
+    </div>
+  </body>
+</html>
