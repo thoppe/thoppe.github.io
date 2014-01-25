@@ -2,7 +2,7 @@ all:
 	./mustache data.yaml template.mustache > index.html
 
 edit:
-	emacs data.yaml
+	emacs data.yaml &
 
 commit:
 	-@make push
