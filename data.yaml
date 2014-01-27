@@ -46,12 +46,22 @@ avatars:
 
 sections:
 -
- title  : Talks
+ title  : Talks/Code
  entries:
  -
   name: "DC Data Wranglers"
   info: "pyparsing: helping data get its sexy back"
   link: http://thoppe.github.io/DCDW_pres_feb_2014/
+-
+ title  : Talks/Research
+ entries:
+ -
+  name: "Virial Coefficients of Charged Protein Solutions"
+  info: ""
+  link: http://thoppe.github.io/research_pres_macrocharge/
+-
+ title  : Talks/Irrelevant
+ entries:
  -
   name: "Irrelevant Topics In Physics: 8"
   info: "Quines, Price of Anarchy, & Zeta Function Regularization"
@@ -64,12 +74,5 @@ sections:
   name: "Irrelevant Topics In Physics: 6"
   info: "Cayley-Dickson Process, Pseudospectra, Markov Cutoff Phenomenon"
   link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr6.html
--
- title  : Research
- entries:
- -
-  name: "Virial Coefficients of Charged Protein Solutions"
-  info: ""
-  link: http://thoppe.github.io/research_pres_macrocharge/
 
 ---
