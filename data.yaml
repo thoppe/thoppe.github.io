@@ -72,7 +72,11 @@ sections:
   link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr7.html
  -
   name: "Irrelevant Topics In Physics: 6"
-  info: "Cayley-Dickson Process, Pseudospectra, Markov Cutoff Phenomenon"
+  info: "Cayley-Dickson Process, Pseudospectra, & Markov Cutoff Phenomenon"
   link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr6.html
+ -
+  name: "Irrelevant Topics In Physics: 5"
+  info: "Random Matrix Theory, Complex Temperatures, & Stochastic Resonance"
+  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr5.html
 
 ---
