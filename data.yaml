@@ -90,9 +90,9 @@ sections:
   name: "Irrelevant Topics In Physics: 2"
   info: "Extraordinarily Large Numbers & Venn-Diagrams"
   link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr2.html
-# -
-#  name: "Irrelevant Topics In Physics: 1"
-#  info: "Dissipative Lagrangians, Supershapes, Random Walks on Regular Lattices"
-#  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr1.html
+ -
+  name: "Irrelevant Topics In Physics: 1"
+  info: "Dissipative Lagrangians, Supershapes, Random Walks on Regular Lattices"
+  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr1.html
 
 ---
