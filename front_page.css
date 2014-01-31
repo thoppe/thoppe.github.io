@@ -1,25 +1,13 @@
+@font-face {
+    font-family: 'Junction';
+    src: url('fonts/junction/Junction-webfont.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html, body{
   min-height: 100%;
 }
-
-/* Not needed, was just playing around 
-#circle {
-    position:absolute;
-
-    margin-top: -15px;
-    margin-left: -15px;
-
-    width:30px;
-    height:30px;
-
-    left:50%;
-    top:100%;
- 
-    border-radius: 50%;    
-    background-color: blue;
-    z-index: -1;
-}
-*/
 
 #header {
     position:relative;
@@ -27,15 +15,21 @@ html, body{
     height:auto;
     background: #202020;
     z-index: 10;
-    line-height: 1.4;
+    line-height: 1;
+    font-family: Junction;
+    text-transform:lowercase;
+    letter-spacing:-.15em;
 }
 
 #logo {
+    font-style:normal;
+    font-weight:normal;
     margin-left:5%;
-    font-weight: bold;
     font-size: 3.5em;
-    text-transform:lowercase;
     color: #FDFDFD;
+    padding-bottom:0ex;
+    padding-top:.25ex;
+    /*font-weight: bold;*/
 }
 
 #logo_dot{ 
@@ -44,8 +38,8 @@ html, body{
 
 
 body {
-    font-size: 100%;
     font-family: "Dosis";
+    font-size: 100%;
     padding: 0 0 2em 0;
     margin: 0;
     border: 0;
