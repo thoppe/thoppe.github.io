@@ -17,7 +17,8 @@ html, body{
     width: 100%;
     background: #202020;
     font-size: 4.0em;
-    height:0.9em;
+    line-height:1em;
+    height:auto;
 }
 
 #logo {
