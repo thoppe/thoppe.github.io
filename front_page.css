@@ -17,9 +17,7 @@ html, body{
     width: 100%;
     background: #202020;
     font-size: 4.0em;
-    line-height:1em;
     height:auto;
-    line-height:.9em;
 
 }
 
@@ -27,9 +25,6 @@ html, body{
     display:inline;
 
     text-transform:lowercase;
-
-    margin-top:    .1em;
-    margin-bottom: .1em;
 
     font-style:normal;
     font-weight:normal;
@@ -39,21 +34,16 @@ html, body{
     color: #FDFDFD;
     width:auto;
 
+/*    vertical-align:super;*/
 }
 
 #logo a {
     color:inherit;
-    height:auto;
-
-    vertical-align:super;
 }
 
 
-#logo_dot{ 
-    height:auto;
+a #logo_dot{ 
     color: #FDDD07;
-    vertical-align:super;
-
 }
 
 
@@ -64,7 +54,7 @@ body {
     border: 0;
     color: #7e7e7b;
     background-color: #ffFFff;
-    position:relative;
+
 }
 
 #content {
