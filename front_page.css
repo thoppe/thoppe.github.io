@@ -16,10 +16,12 @@ html, body{
 #header {
     position:relative;
     width: 100%;
-    height:auto;
     background: #202020;
     z-index: 10;
     text-transform:lowercase;
+
+    font-size: 4.0em;
+    height:0.9em;
 }
 
 #logo {
@@ -30,7 +32,7 @@ html, body{
     font-weight:normal;
     margin-left:5%;
     border: 0;
-    font-size: 4.0em;
+
     color: #FDFDFD;
     display:inline-block;
     width:auto;
@@ -95,7 +97,7 @@ a .info{
 }
 
 .section {
-    margin: 1em 1em 10px 0px;
+    margin: 1em 1em 1em 0px;
     clear:left;
 }
 
