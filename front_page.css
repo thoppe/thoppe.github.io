@@ -14,10 +14,9 @@ html, body{
 }
 
 #header {
-    position:relative;
+    position:fixed;
     width: 100%;
     background: #202020;
-    z-index: 10;
     text-transform:lowercase;
 
     font-size: 4.0em;
@@ -25,6 +24,7 @@ html, body{
 }
 
 #logo {
+    position:relative;
     margin-top:    .1em;
     margin-bottom: .1em;
 
@@ -38,8 +38,13 @@ html, body{
     width:auto;
 }
 
+#logo a {
+    height:auto;
+}
+
 
 #logo_dot{ 
+    height:auto;
     color: #FDDD07;
 }
 
