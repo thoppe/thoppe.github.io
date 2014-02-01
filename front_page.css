@@ -18,7 +18,6 @@ html, body{
     background: #202020;
     font-size: 4.0em;
     height:auto;
-
 }
 
 #logo {
@@ -130,7 +129,7 @@ a .info{
 /* Mobile settings */
 
 @media only screen and (max-device-width: 480px) {
-    #logo {
+    #header {
 	font-size: 2.5em;
     }
 
