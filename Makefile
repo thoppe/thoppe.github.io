@@ -16,4 +16,4 @@ push:
 pull:
 	git pull
 view:
-	chromium-browser index.html
+	chromium-browser index.html &
