@@ -1,12 +1,13 @@
-@font-face {
-  font-family: 'Junction';
-  src: url('fonts/junction/Junction-webfont.svg');
-  src: local('☺'),
-  url('fonts/junction/Junction-webfont.ttf') format('truetype'),
-  url('fonts/junction/Junction-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
+@import url("fonts/ostrich/ostrich-sans.css");
+
+#header {
+    font-family: Ostrich Sans Inline;
 }
+
+body {
+    font-family: "Dosis";
+}
+
 
 html, body{
   min-height: 100%;
@@ -19,9 +20,7 @@ html, body{
     background: #202020;
     z-index: 10;
     line-height: 1;
-    font-family: Junction;
     text-transform:lowercase;
-    letter-spacing:-.15em;
 }
 
 #logo {
@@ -30,10 +29,10 @@ html, body{
     margin-left:5%;
     font-size: 3.5em;
     color: #FDFDFD;
-    padding-bottom:0ex;
-    padding-top:.25ex;
-    /*font-weight: bold;*/
+    display:inline-block;
+    width:auto;
 }
+
 
 #logo_dot{ 
     color: #FDDD07;
@@ -41,7 +40,6 @@ html, body{
 
 
 body {
-    font-family: "Dosis";
     font-size: 100%;
     padding: 0 0 2em 0;
     margin: 0;
@@ -72,20 +70,20 @@ a {
 }
 
 .section a {
+    color: #202020;
+}
+*
+.section a:hover { 
     color: #263dcc;
 }
 
-.section a:hover { 
-    color: #404040;
-}
-
-.talk a, a .info{
-    transition:color .3s ease-out;
-    color: #404040;
+a .info{
+    transition:color .5s ease-out;
+    color: #263dcc;
 }
 
 .talk a:hover, a:hover .info { 
-    color: #0F285C;
+    color: #263dcc;
 }
 
 
@@ -94,16 +92,22 @@ a {
     border-radius: 6px;
 }
 
+.section {
+    margin: 10px 0px 0px 0px;
+    clear:left;
+}
+
 .section h1{
+    font-family: Ostrich Sans Rounded;
     font-weight: normal;
     font-size: 2.0em;
     line-height: 1;
-    margin: 5px 0px 5px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
 .section .talk {
     font-weight: bold;
-    font-size: 1.25em;
+    font-size: 1.15em;
     margin: 0px 0px 0px 1em;
     color: #202020;
 }
