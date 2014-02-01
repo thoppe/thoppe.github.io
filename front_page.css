@@ -45,14 +45,14 @@ html, body{
     color:inherit;
     height:auto;
 
-    vertical-align:top;
+    vertical-align:super;
 }
 
 
 #logo_dot{ 
     height:auto;
     color: #FDDD07;
-    vertical-align:text-top;
+    vertical-align:super;
 
 }
 
