@@ -40,6 +40,7 @@ html, body{
 }
 
 #logo a {
+    color:inherit;
     vertical-align:top;
     height:auto;
 }
