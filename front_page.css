@@ -19,6 +19,8 @@ html, body{
     font-size: 4.0em;
     line-height:1em;
     height:auto;
+    line-height:.9em;
+
 }
 
 #logo {
@@ -37,7 +39,7 @@ html, body{
     color: #FDFDFD;
     width:auto;
 
-    vertical-align:top;
+    vertical-align:text-top;
 }
 
 #logo a {
