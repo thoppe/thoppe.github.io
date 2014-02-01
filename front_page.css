@@ -22,6 +22,8 @@ html, body{
 }
 
 #logo {
+    display:inline;
+
     text-transform:lowercase;
 
     margin-top:    .1em;
@@ -33,7 +35,6 @@ html, body{
     border: 0;
 
     color: #FDFDFD;
-    display:inline-block;
     width:auto;
 
     vertical-align:top;
