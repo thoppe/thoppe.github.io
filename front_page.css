@@ -1,8 +1,11 @@
 @font-face {
-    font-family: 'Junction';
-    src: url('fonts/junction/Junction-webfont.ttf');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Junction';
+  src: url('fonts/junction/Junction-webfont.svg');
+  src: local('☺'),
+  url('fonts/junction/Junction-webfont.ttf') format('truetype'),
+  url('fonts/junction/Junction-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 html, body{
