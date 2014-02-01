@@ -39,19 +39,21 @@ html, body{
     color: #FDFDFD;
     width:auto;
 
-    vertical-align:text-top;
 }
 
 #logo a {
     color:inherit;
-    vertical-align:top;
     height:auto;
+
+    vertical-align:baseline;
 }
 
 
 #logo_dot{ 
     height:auto;
     color: #FDDD07;
+    vertical-align:top;
+
 }
 
 
