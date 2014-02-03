@@ -4,6 +4,10 @@
     font-family: Ostrich Sans Inline;
 }
 
+.section h1{
+    font-family: Ostrich Sans Rounded;
+}
+
 body {
     font-family: "Dosis";
 }
@@ -16,24 +20,27 @@ html, body{
 #header {
     width: 100%;
     background: #202020;
-    font-size: 4.0em;
-    height:auto;
+    margin: 0;
+    border: 0;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
 
 #logo {
-    display:inline;
-
-    text-transform:lowercase;
+    display:inline-block;
+    /*text-transform:lowercase;*/
 
     font-style:normal;
     font-weight:normal;
+    font-size: 4.0em;
+    line-height:.75em;
+
     margin-left:5%;
-    border: 0;
 
     color: #FDFDFD;
     width:auto;
+    font-size:4em;
 
-    height:1em;
 }
 
 #logo a {
@@ -104,7 +111,6 @@ a .info{
 }
 
 .section h1{
-    font-family: Ostrich Sans Rounded;
     font-weight: normal;
     font-size: 2.0em;
     line-height: 1;
@@ -130,7 +136,7 @@ a .info{
 
 @media only screen and (max-device-width: 480px) {
     #header {
-	font-size: 3em;
+	font-size: 3.5em;
     }
 
     .section h1{
