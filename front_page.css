@@ -86,10 +86,12 @@ a {
     color: #202020;
 }
 *
-.section a:hover { 
+.section a:hover,
+.section a:hover .info
+ { 
     color: #263dcc;
 }
-
+/*
 a .info{
     transition:color .5s ease-out;
     color: #263dcc;
@@ -98,7 +100,7 @@ a .info{
 .talk a:hover, a:hover .info { 
     color: #263dcc;
 }
-
+*/
 
 .avatar {
     max-width:10em;
@@ -107,7 +109,7 @@ a .info{
 
 .section {
     margin: 1em 1em 1em 0px;
-    clear:left;
+    clear :left;
 }
 
 .section h1{
@@ -117,12 +119,14 @@ a .info{
     margin: 0px 0px 0px 0px;
 }
 
-.section .talk {
+.talk {
     font-weight: bold;
     font-size: 1.15em;
     margin: 0px 0px 0px 1em;
     color: #202020;
+    width:auto;
 }
+
 
 .talk .info {
     font-weight: normal;
@@ -135,7 +139,7 @@ a .info{
 /* Mobile settings */
 
 @media only screen and (max-device-width: 480px) {
-    #header {
+    #logo {
 	font-size: 3.5em;
     }
 
