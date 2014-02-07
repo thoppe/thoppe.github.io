@@ -26,13 +26,16 @@ html, body{
     padding-top: .5em;
     padding-bottom: .5em;
 }
+.blur {
+    opacity:1; /*initial opacity*/
+}
 
 #logo {
+    line-height: 150%;
+
     display:inline-block;
     font-size: 4.0em;
- 
     margin-left:5%;
-    line-height: 110%;
     color: #FDFDFD;
 }
 
