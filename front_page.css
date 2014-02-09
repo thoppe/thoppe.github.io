@@ -2,6 +2,7 @@
 
 #header {
     font-family: Ostrich Sans Inline;
+    -webkit-font-smoothing: antialiased;
 }
 
 .section h1{
@@ -25,22 +26,17 @@ html, body{
     padding-top: .5em;
     padding-bottom: .5em;
 }
+.blur {
+    opacity:1; /*initial opacity*/
+}
 
 #logo {
+    line-height: 150%;
+
     display:inline-block;
-    /*text-transform:lowercase;*/
-
-    font-style:normal;
-    font-weight:normal;
     font-size: 4.0em;
-    line-height:.75em;
-
     margin-left:5%;
-
     color: #FDFDFD;
-    width:auto;
-    font-size:4em;
-
 }
 
 #logo a {
@@ -52,7 +48,6 @@ html, body{
     color: #FDDD07;
 }
 
-
 body {
     font-size: 100%;
     padding: 0 0 2em 0;
@@ -60,7 +55,6 @@ body {
     border: 0;
     color: #7e7e7b;
     background-color: #ffFFff;
-
 }
 
 #content {
@@ -85,7 +79,8 @@ a {
 .section a {
     color: #202020;
 }
-*
+
+
 .section a:hover,
 .section a:hover .info
  { 
@@ -140,16 +135,15 @@ a .info{
 
 @media only screen and (max-device-width: 480px) {
     #logo {
-	font-size: 3.5em;
+	    font-size: 3.5em;
     }
 
     .section h1{
-	font-size: 2em;
+	    font-size: 2em;
     }
 
     .avatar {
-	max-width:8em;
-	border-radius: 6px;
+	    max-width:8em;
+	    border-radius: 6px;
     }
-
 }
