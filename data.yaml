@@ -94,5 +94,15 @@ sections:
   name: "Irrelevant Topics In Physics: 1"
   info: "Dissipative Lagrangians, Supershapes, Random Walks on Regular Lattices"
   link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr1.html
-
+-
+ title  : Code
+ entries:
+ -
+  name: "md2reveal.py"
+  info: "Convert extended markdown to reveal.js slides"
+  link: https://github.com/thoppe/md2reveal
+ -
+  name: "make-it-work.js"
+  info: "JS utility to size boxes beautifully"
+  link: http://thoppe.github.io/make-it-work/
 ---
