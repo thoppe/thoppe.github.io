@@ -102,6 +102,10 @@ sections:
   info: "Convert extended markdown to reveal.js slides"
   link: https://github.com/thoppe/md2reveal
  -
+  name: "artisanal-boxes.js"
+  info: "Premium, hand-crafted JS boxes"
+  link: http://thoppe.github.io/artisanal-boxes.js/
+ -
   name: "make-it-work.js"
   info: "JS utility to size boxes beautifully"
   link: http://thoppe.github.io/make-it-work/
