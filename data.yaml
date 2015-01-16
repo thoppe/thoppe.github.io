@@ -4,14 +4,6 @@ logo_link: https://github.com/thoppe
 
 avatars:
 -
- image: images/avatar1.jpg
- link : http://stackoverflow.com/users/249341/hooked
- sublinks:
- -
-  name: Stack Overflow
-  link: http://stackoverflow.com/users/249341/hooked
-
--
  image: images/avatar4.jpg
  link : https://github.com/thoppe
  sublinks:
@@ -23,6 +15,14 @@ avatars:
   link: https://bitbucket.org/hooked/
 
 -
+ image: images/avatar1.jpg
+ link : http://stackoverflow.com/users/249341/hooked
+ sublinks:
+ -
+  name: Stack Overflow
+  link: http://stackoverflow.com/users/249341/hooked
+
+-
  image: images/avatar5.jpg
  link : http://toughmudder.com
  sublinks:
@@ -31,7 +31,7 @@ avatars:
   link: http://toughmudder.com
  -
   name: Capoeirista
-  link: http://www.abadadc.org/ingles/index.htm
+  link: http://www.capoeirawashingtondc.com/
 
 -
  image: images/avatar3.jpg
@@ -46,63 +46,98 @@ avatars:
 
 sections:
 -
+ title  : Talks/Research
+ entries:
+ -
+  name: "Topological Considerations of the Wang-Landau Sampling Algorithm"
+  info: "Investigating algorithmic efficiency over different movesets."
+  link: http://thoppe.github.io/Presentation_Telluride_2014_WL_Topology
+ -
+  name: "Virial Coefficients of Charged Protein Solutions"
+  info: "Liquid state theory for protein solutions."
+  link: http://thoppe.github.io/Presentation_Research_Macrocharge
+ -
+  name: "Rise of the Coauthor"
+  info: "How many scientists does it take to write a paper today?"
+  link: https://github.com/thoppe/Presentation_Rise_of_the_Coauthor
+-
  title  : Talks/Code
  entries:
  -
   name: "DC Data Wranglers"
   info: "pyparsing: helping data get its sexy back"
-  link: http://thoppe.github.io/DCDW_pres_feb_2014/
--
- title  : Talks/Research
- entries:
- -
-  name: "Virial Coefficients of Charged Protein Solutions"
-  info: ""
-  link: http://thoppe.github.io/research_pres_macrocharge/
+  link: http://thoppe.github.io/Presentation_DCDW_Feb_2014_pyparsing
+
 -
  title  : Talks/Irrelevant
  entries:
  -
   name: "Irrelevant Topics In Physics: 8"
   info: "Quines, Price of Anarchy, & Zeta Function Regularization"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr8.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr8.html
  -
   name: "Irrelevant Topics In Physics: 7"
   info: "Benford's Law, Negative Specific Heat, & Real Computability"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr7.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr7.html
  -
   name: "Irrelevant Topics In Physics: 6"
   info: "Cayley-Dickson Process, Pseudospectra, & Markov Cutoff Phenomenon"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr6.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr6.html
  -
   name: "Irrelevant Topics In Physics: 5"
   info: "Random Matrix Theory, Complex Temperatures, & Stochastic Resonance"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr5.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr5.html
  -
   name: "Irrelevant Topics In Physics: 4"
   info: "Esoteric Programming Languages & Chutes and Ladders"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr4.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr4.html
  -
   name: "Irrelevant Topics In Physics: 3"
   info: "Cardinality Of Infinity, Negative Probabilities, & Hobomorphism"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr3.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr3.html
  -
   name: "Irrelevant Topics In Physics: 2"
   info: "Extraordinarily Large Numbers & Venn-Diagrams"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr2.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr2.html
  -
   name: "Irrelevant Topics In Physics: 1"
   info: "Dissipative Lagrangians, Supershapes, Random Walks on Regular Lattices"
-  link: http://thoppe.github.io/Irrelevant_Topics_In_Physics/irr1.html
+  link: http://thoppe.github.io/Presentation_Irrelevant_Topics_In_Physics/irr1.html
+
+-
+ title  : Science
+ entries:
+ -
+  name: "Encyclopedia of Finite Graphs"
+  info: "Integer sequence discovery from small graphs."
+  link: https://github.com/thoppe/Encyclopedia-of-Finite-Graphs
+ -
+  name: "SVD of the RDF for Hard Sphere and Square Well Potentials"
+  info: "Basis vectors to reconstruct the radial distribution function."
+  link: https://github.com/thoppe/gr_svd
+
+
 -
  title  : Code
  entries:
  -
+  name: "Colorless green ideas"
+  info: "Generalizing Chomsky's famous sentence into syntactic singular vectors."
+  link: https://github.com/thoppe/Colorless-Green-Ideas
+ -
   name: "md2reveal.py"
-  info: "Convert extended markdown to reveal.js slides"
+  info: "Converts extended markdown to reveal.js slides."
   link: https://github.com/thoppe/md2reveal
  -
+  name: "artisanal-boxes.js"
+  info: "Premium, hand-crafted js boxes."
+  link: https://github.com/thoppe/artisanal-boxes.js
+ -
+  name: "flower-boxes.js"
+  info: "Plant flowers in artisanal boxes."
+  link: https://github.com/thoppe/flower-boxes.js
+ -
   name: "make-it-work.js"
-  info: "JS utility to size boxes beautifully"
+  info: "JS utility to size boxes beautifully."
   link: http://thoppe.github.io/make-it-work/
 ---

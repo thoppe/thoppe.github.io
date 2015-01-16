@@ -1,5 +1,5 @@
 all:
-	./mustache data.yaml template.mustache > index.html
+	mustache data.yaml template.mustache > index.html
 
 edit:
 	emacs data.yaml &
