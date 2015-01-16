@@ -59,7 +59,7 @@ sections:
  -
   name: "Rise of the Coauthor"
   info: "How many scientists does it take to write a paper today?"
-  link: https://github.com/thoppe/Presentation_Rise_of_the_Coauthor
+  link: http://thoppe.github.io/Presentation_Rise_of_the_Coauthor
 -
  title  : Talks/Code
  entries:
@@ -131,13 +131,13 @@ sections:
  -
   name: "artisanal-boxes.js"
   info: "Premium, hand-crafted js boxes."
-  link: https://github.com/thoppe/artisanal-boxes.js
+  link: http://thoppe.github.io/artisanal-boxes.js/
  -
   name: "flower-boxes.js"
   info: "Plant flowers in artisanal boxes."
-  link: https://github.com/thoppe/flower-boxes.js
+  link: http://thoppe.github.io/flower-boxes.js/
  -
   name: "make-it-work.js"
   info: "JS utility to size boxes beautifully."
-  link: http://thoppe.github.io/make-it-work/
+  link: http://thoppe.github.io/make-it-work.js/
 ---
