@@ -49,6 +49,10 @@ sections:
  title  : Talks/Research
  entries:
  -
+  name: "Mean-field intrinsically disordered proteins"
+  info: "Binding Affinity & Specificity with quasi-chemical lattice-gas"
+  link: http://thoppe.github.io/Presentation_Research_IDP/biophys_index.html#/
+ -
   name: "Topological Considerations of the Wang-Landau Sampling Algorithm"
   info: "Investigating algorithmic efficiency over different movesets."
   link: http://thoppe.github.io/Presentation_Telluride_2014_WL_Topology
