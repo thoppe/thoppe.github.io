@@ -10,9 +10,6 @@ avatars:
  -
   name: Github
   link: https://github.com/thoppe
- -
-  name: Bitbucket
-  link: https://bitbucket.org/hooked/
 
 -
  image: images/avatar1.jpg
@@ -111,6 +108,10 @@ sections:
 -
  title  : Science
  entries:
+ -
+  name: "Curriculum Vitae"
+  info: Academic CV, Research Statement and Teaching Pilosophy
+  link: https://github.com/thoppe/personal_cv/tree/master/pdf
  -
   name: "Encyclopedia of Finite Graphs"
   info: "Integer sequence discovery from small graphs."
