@@ -134,6 +134,10 @@ sections:
  title  : Code
  entries:
  -
+  name: "Transorthogonal Linguistics"
+  info: "Quantifying semantics between two words."
+  link: https://transorthogonal-linguistics.herokuapp.com/
+ -
   name: "today-AI-learned"
   info: "Machine learning r/todayIlearned to mine for new and interesting things."
   link: https://github.com/thoppe/today-AI-learned
