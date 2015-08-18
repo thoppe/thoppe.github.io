@@ -131,7 +131,7 @@ sections:
 
 
 -
- title  : Code
+ title  : Projects
  entries:
  -
   name: "Transorthogonal Linguistics"
@@ -145,6 +145,10 @@ sections:
   name: "Colorless green ideas"
   info: "Generalizing Chomsky's famous sentence into syntactic singular vectors."
   link: https://github.com/thoppe/Colorless-Green-Ideas
+ -
+  name: "Tor spiders"
+  info: "Spiders a website using the darknet"
+  link: https://github.com/thoppe/tor_spiders
  -
   name: "md2reveal.py"
   info: "Converts extended markdown to reveal.js slides."
