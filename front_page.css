@@ -30,13 +30,20 @@ html, body{
     opacity:1; /*initial opacity*/
 }
 
-#logo {
-    line-height: 150%;
 
+#logo {
+    line-height: 100%;
     display:inline-block;
     font-size: 4.0em;
     margin-left:5%;
     color: #FDFDFD;
+}
+
+#subtext a{
+    display:inline-block;
+    font-size: 1.0em;
+    margin-left:5%;
+    color: inherit;
 }
 
 #logo a {
