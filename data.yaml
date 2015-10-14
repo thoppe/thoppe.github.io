@@ -147,6 +147,10 @@ sections:
   info: "Generalizing Chomsky's famous sentence into syntactic singular vectors."
   link: https://github.com/thoppe/Colorless-Green-Ideas
  -
+  name: "Orthographic Pedant"
+  info: "Spell checking with an anthropomorphic hipster bot"
+  link: https://github.com/thoppe/orthographic-pedant
+ -
   name: "Tor spiders"
   info: "Spiders a website using the darknet"
   link: https://github.com/thoppe/tor_spiders
