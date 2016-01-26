@@ -73,8 +73,12 @@ sections:
  title  : Talks/Code
  entries:
  -
-  name: "DC Data Wranglers"
-  info: "pyparsing: helping data get its sexy back"
+  name: "Black Hat Data Wrangling"
+  info: "DC Data Wranglers: 2016"
+  link: http://thoppe.github.io/Presentation-Black-Hack-Data-Wrangling/BHDW_DW_meetup.html#/
+ -
+  name: "pyparsing: helping data get its sexy back"
+  info: "DC Data Wranglers: 2014"
   link: http://thoppe.github.io/Presentation_DCDW_Feb_2014_pyparsing
 
 -
