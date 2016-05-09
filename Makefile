@@ -1,8 +1,10 @@
 all:
-	mustache data.yaml template.mustache > index.html
+	make view
+#	mustache data.yaml template.mustache > index.html
 
 edit:
-	emacs data.yaml &
+	emacs index.html &
+#	emacs data.yaml &
 
 commit:
 	-@make push
