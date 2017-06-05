@@ -12,13 +12,13 @@ All Hack && Tell projects for reference:
 + Round 39: [ex-libris](https://github.com/thoppe/ex-libris)
 + Round 38: [bots reading bots](https://github.com/thoppe/bots-reading-bots)
 + Round 37: [cracking passwords with deep learning](https://github.com/thoppe/5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8)
-+ Round 36: _(DIDN'T ATTEND: Unfair Witty Outburst)_
++ Round 36: _(DID NOT ATTEND: Unfair Witty Outburst)_
 + Round 35: **Omniscient Omnibus**
 + Round 34: [baby neural nets](https://github.com/thoppe/baby_neural_nets)
 + Round 33: [deep phonics](https://github.com/thoppe/deep-phonics) 
 + Round 32: [arXiv2git](https://github.com/thoppe/arXiv2git)
 + Round 31: [imaginary rotoscopes](https://github.com/thoppe/imaginary_rotoscopes)
-+ Round 30: **Didacts and Narpets** (def. went)
++ Round 30: [Polysemous emoji](https://github.com/thoppe/polysemous-emoji)
 + Round 29: [python library: hyperop](https://github.com/thoppe/presentation-twitter-amplifers)
 + Round 28: [PDF Stenography](https://github.com/thoppe/PDF_steganography)
 + Round 27: [[Fractal typography](https://github.com/thoppe/fractal_typography)
@@ -31,20 +31,16 @@ All Hack && Tell projects for reference:
 + Round 20: [Today AI Learned](https://github.com/thoppe/today-AI-learned)
 + Round 19: [Automagic API](https://github.com/thoppe/automagic-api)
 + Round 18: [code linguistics](https://github.com/thoppe/code-linguistics)
-+ Round 17: CANCELED - no hack
++ Round 17: _(CANCELED)_
 + Round 16: [Colorless Green Ideas](https://github.com/thoppe/Colorless-Green-Ideas)
 + Round 15: [artisanal-boxes.js](https://github.com/thoppe/artisanal-boxes.js)
-+ Round 14: **Ghostscript Printah**
-+ Round 13: **Triskaidekaphilia**
-+ Round 12: **New Things**
 
 Unidentified projects
-+ [md2reveal](https://github.com/thoppe/md2reveal)
-+ [Polysemous emoji](https://github.com/thoppe/polysemous-emoji)
 + [Cayley-Dickson Algebra](https://github.com/thoppe/Cayley-Dickson)
 
 Not reported
 
++ [md2reveal](https://github.com/thoppe/md2reveal)
 + [Metric Time](https://github.com/thoppe/Metric_Time)
 + [markdown math](https://github.com/thoppe/markdown_math)
 + [Homophonic Encryption](https://github.com/thoppe/homophonic-encryption)
