@@ -4,6 +4,12 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 50: [Landmark](https://thoppe.github.io/Landmark/?address=0xD38e005a28fae8D8c4238444BC08E7Da83902310)
++ Round 49: _(DID NOT ATTEND)_
++ Round 48: [VEX](https://thoppe.github.io/ethereum_VEX/index.html)
++ Round 47: [The Lie Within The Fiction](https://thoppe.github.io/TheLieWithinTheFiction/)
++ Round 46: [Twitterf*cks](https://hackernoon.com/washington-d-c-gives-no-fucks-be51aa152fe)
++ Round 45: [Text Blending](https://thoppe.github.io/text-blending/HnT_presentation.html)
 + Round 44: [Stupid Tensorflow Tricks](https://medium.com/towards-data-science/stupid-tensorflow-tricks-3a837194b7a0)
 + Round 43: [twitter-amplifers](https://github.com/thoppe/presentation-twitter-amplifers)
 + Round 42: _(CANCELED)_
