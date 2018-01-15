@@ -4,6 +4,7 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 52: [Spectrum](https://github.com/thoppe/Spectrum)
 + Round 51: [Password Topology](https://thoppe.github.io/password_topology/HnT_presentation.html)
 + Round 50: [Landmark](https://thoppe.github.io/Landmark/?address=0xD38e005a28fae8D8c4238444BC08E7Da83902310)
 + Round 49: _(DID NOT ATTEND)_
