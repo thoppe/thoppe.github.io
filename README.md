@@ -4,6 +4,10 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 59: [DeepMDMA](https://github.com/thoppe/DeepMDMA)
++ Round 58: _(DID NOT ATTEND)_
++ Round 57: [Twitter Squares](https://github.com/thoppe/TwitterSquares)
+
 + Round 56: [Corinthian](https://github.com/thoppe/corinthian_filter)
 + Round 55: [Timecube](https://github.com/thoppe/timecube)
 + Round 54: _(DID NOT PRESENT)_
