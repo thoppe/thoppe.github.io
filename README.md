@@ -35,7 +35,7 @@ All Hack && Tell projects for reference:
 + Round 32: [arXiv2git](https://github.com/thoppe/arXiv2git)
 + Round 31: [imaginary rotoscopes](https://github.com/thoppe/imaginary_rotoscopes)
 + Round 30: [Polysemous emoji](https://github.com/thoppe/polysemous-emoji)
-+ Round 29: [python library: hyperop](https://github.com/thoppe/presentation-twitter-amplifers)
++ Round 29: [python library: hyperop](https://github.com/thoppe/python-hyperoperators)
 + Round 28: [PDF Stenography](https://github.com/thoppe/PDF_steganography)
 + Round 27: [Fractal typography](https://github.com/thoppe/fractal_typography)
 + Round 26: [RNN Science](https://github.com/thoppe/RNN_science_titles)
