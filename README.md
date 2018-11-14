@@ -4,6 +4,7 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 62: [pixelhouse](https://github.com/thoppe/pixelhouse)
 + Round 61: [DeepOptimizerViz](https://github.com/thoppe/DeepOptimizerViz)
 + Round 60: _(CANCELED)_
 + Round 59: [DeepMDMA](https://github.com/thoppe/DeepMDMA)
