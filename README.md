@@ -4,6 +4,8 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 64: [Synthetic Countenance](https://thoppe.github.io/SyntheticCountenance/)
++ Round 63: [Ars Metrica](https://github.com/thoppe/ars_metrica)
 + Round 62: [pixelhouse](https://github.com/thoppe/pixelhouse)
 + Round 61: [DeepOptimizerViz](https://github.com/thoppe/DeepOptimizerViz)
 + Round 60: _(CANCELED)_
