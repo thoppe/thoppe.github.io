@@ -4,6 +4,12 @@ Edit the html directly.
 
 All Hack && Tell projects for reference:
 
++ Round 70: [Buddhabrot polynomials](https://thoppe.github.io/zerozerozero/)
++ Round 69: [NEWNEWYORK VAPORWAVE](https://www.youtube.com/watch?v=g83rt7T4XW4)
++ Round 68: [greasepaint](https://thoppe.github.io/greasepaint/)
++ Round 67: [LigaturaObscura](https://thoppe.github.io/LigaturaObscura/)
++ Round 66: _(DID NOT ATTEND)_
++ Round 65: [tripGAN](https://thoppe.github.io/Presentation_Topics/HnT_65_trypophobia/index.html)
 + Round 64: [Synthetic Countenance](https://thoppe.github.io/SyntheticCountenance/)
 + Round 63: [Ars Metrica](https://github.com/thoppe/ars_metrica)
 + Round 62: [pixelhouse](https://github.com/thoppe/pixelhouse)
