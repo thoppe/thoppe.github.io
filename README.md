@@ -1,8 +1,4 @@
-### Source for [thoppe.github.io](http://thoppe.github.io/)
-
-Edit the html directly.
-
-All Hack && Tell projects for reference:
+## All (47) Hack && Tell projects for reference:
 
 + Round 71: [BEFRAME](https://www.youtube.com/watch?v=K0_O34eoC68)
 + Round 70: [Buddhabrot polynomials](https://thoppe.github.io/zerozerozero/)
@@ -62,7 +58,7 @@ All Hack && Tell projects for reference:
 + Round 16: [Colorless Green Ideas](https://github.com/thoppe/Colorless-Green-Ideas)
 + Round 15: [artisanal-boxes.js](https://github.com/thoppe/artisanal-boxes.js)
 
-Not reported
+## Not reported
 
 + [Cayley-Dickson Algebra](https://github.com/thoppe/Cayley-Dickson)
 + [Homophonic Encryption](https://github.com/thoppe/homophonic-encryption)
@@ -73,10 +69,13 @@ Not reported
 + [one-gram.js](http://thoppe.github.io/one_gram.js/)
 + [flower-boxes.js](https://github.com/thoppe/flower-boxes.js)
 
-Science not reported
+## Science not reported
 
 + [Meta graphs](https://github.com/thoppe/meta-graph)
 
-Science
+## Science
 
 + [EoGF](https://github.com/thoppe/Encyclopedia-of-Finite-Graphs)
+
+### Source for [thoppe.github.io](http://thoppe.github.io/)
+
