@@ -66,7 +66,7 @@
 + [md2reveal](https://github.com/thoppe/md2reveal)
 + [markdown math](https://github.com/thoppe/markdown_math)
 + [make-it-work.js](https://github.com/thoppe/make-it-work.js)
-+ [one-gram.js](http://thoppe.github.io/one_gram.js/)
++ [one-gram.js](https://thoppe.github.io/one_gram.js/)
 + [flower-boxes.js](https://github.com/thoppe/flower-boxes.js)
 
 ## Science not reported
@@ -77,5 +77,5 @@
 
 + [EoGF](https://github.com/thoppe/Encyclopedia-of-Finite-Graphs)
 
-### Source for [thoppe.github.io](http://thoppe.github.io/)
+### Source for [thoppe.github.io](https://thoppe.github.io/)
 
